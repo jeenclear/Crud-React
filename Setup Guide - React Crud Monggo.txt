@@ -1,7 +1,9 @@
 1. git clone https://github.com/jeenclear/Crud-React.git
 
-2. Inside Crud React Folder copy the folder crud-react and paste outside
-Crud React Folder and rename it to crud folder.
+2. Inside Crud React Folder copy the folder crud-react and paste it in your: 
+- htdocs for xampp, 
+- www for lagaron
+and rename it to crud folder.
 
 3. Go inside backend folder and run: npm install after run: npm run dev. sample link: http://localhost:5175/
 
